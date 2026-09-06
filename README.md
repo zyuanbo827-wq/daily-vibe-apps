@@ -18,6 +18,7 @@
 | 2026-09-03 | [text-stats](./apps/2026-09-03-text-stats) | Python 标准库 | 文本统计：词数/句数/阅读时长/高频词，含 CLI 与单测 |
 | 2026-09-04 | [cron-next](./apps/2026-09-04-cron-next) | Python 标准库 | cron 表达式解析与下 N 次执行时间计算，含 CLI 与单测 |
 | 2026-09-05 | [huffman-codec](./apps/2026-09-05-huffman-codec) | Python 标准库 | 哈夫曼压缩编解码器：前缀码/比特打包/自描述码表头，含 CLI 与单测 |
+| 2026-09-06 | [bf-interpreter](./apps/2026-09-06-bf-interpreter) | Python 标准库 | Brainfuck 解释器：括号跳转表/纸带回绕/字节 IO，含 CLI 与示例 |
 
 ## 本地结构
 
