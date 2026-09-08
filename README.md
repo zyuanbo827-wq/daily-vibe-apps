@@ -20,6 +20,7 @@
 | 2026-09-05 | [huffman-codec](./apps/2026-09-05-huffman-codec) | Python 标准库 | 哈夫曼压缩编解码器：前缀码/比特打包/自描述码表头，含 CLI 与单测 |
 | 2026-09-06 | [bf-interpreter](./apps/2026-09-06-bf-interpreter) | Python 标准库 | Brainfuck 解释器：括号跳转表/纸带回绕/字节 IO，含 CLI 与示例 |
 | 2026-09-07 | [maze-solver](./apps/2026-09-07-maze-solver) | Python 标准库 | 随机 DFS 生成完美迷宫 + BFS 最短路 + ASCII 可视化，含 CLI |
+| 2026-09-08 | [line-diff](./apps/2026-09-08-line-diff) | Python 标准库 | 基于 LCS 的 unified diff，支持补丁应用与反向回滚，含 CLI |
 
 ## 本地结构
 
