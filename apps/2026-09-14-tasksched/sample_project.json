@@ -1,0 +1,8 @@
+{
+  "requirements": {"deps": [], "duration": 2},
+  "design": {"deps": ["requirements"], "duration": 3},
+  "backend": {"deps": ["design"], "duration": 6},
+  "frontend": {"deps": ["design"], "duration": 5},
+  "qa": {"deps": ["backend", "frontend"], "duration": 2},
+  "release": {"deps": ["qa"], "duration": 1}
+}
