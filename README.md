@@ -22,6 +22,7 @@
 | 2026-09-07 | [maze-solver](./apps/2026-09-07-maze-solver) | Python 标准库 | 随机 DFS 生成完美迷宫 + BFS 最短路 + ASCII 可视化，含 CLI |
 | 2026-09-08 | [line-diff](./apps/2026-09-08-line-diff) | Python 标准库 | 基于 LCS 的 unified diff，支持补丁应用与反向回滚，含 CLI |
 | 2026-09-09 | [game-2048](./apps/2026-09-09-game-2048) | Python 标准库 | 种子可复现的 2048 游戏核心：滑动合并、四向移动、终局判定与文本 CLI |
+| 2026-09-14 | [tasksched](./apps/2026-09-14-tasksched) | Python 标准库 | DAG 任务调度器：确定性拓扑排序、分层并行、ASAP 排程与关键路径分析 |
 
 ## 本地结构
 
