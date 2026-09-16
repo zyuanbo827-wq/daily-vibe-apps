@@ -24,6 +24,7 @@
 | 2026-09-09 | [game-2048](./apps/2026-09-09-game-2048) | Python 标准库 | 种子可复现的 2048 游戏核心：滑动合并、四向移动、终局判定与文本 CLI |
 | 2026-09-14 | [tasksched](./apps/2026-09-14-tasksched) | Python 标准库 | DAG 任务调度器：确定性拓扑排序、分层并行、ASAP 排程与关键路径分析 |
 | 2026-09-15 | [markov-text](./apps/2026-09-15-markov-text) | Python 标准库 | 1/2 阶马尔可夫链文本生成器，种子可复现，含 CLI 与示例语料 |
+| 2026-09-16 | [game-of-life](./apps/2026-09-16-game-of-life) | Python 标准库 | 康威生命游戏 B3/S23，有界/环面边界、经典图案库与 ASCII CLI |
 
 ## 本地结构
 
