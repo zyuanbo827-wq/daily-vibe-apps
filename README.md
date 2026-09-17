@@ -25,6 +25,7 @@
 | 2026-09-14 | [tasksched](./apps/2026-09-14-tasksched) | Python 标准库 | DAG 任务调度器：确定性拓扑排序、分层并行、ASAP 排程与关键路径分析 |
 | 2026-09-15 | [markov-text](./apps/2026-09-15-markov-text) | Python 标准库 | 1/2 阶马尔可夫链文本生成器，种子可复现，含 CLI 与示例语料 |
 | 2026-09-16 | [game-of-life](./apps/2026-09-16-game-of-life) | Python 标准库 | 康威生命游戏 B3/S23，有界/环面边界、经典图案库与 ASCII CLI |
+| 2026-09-17 | [expr-eval](./apps/2026-09-17-expr-eval) | Python 标准库 | 调度场表达式求值器：优先级/一元符号/函数/变量，含 RPN 调试与 REPL CLI |
 
 ## 本地结构
 
