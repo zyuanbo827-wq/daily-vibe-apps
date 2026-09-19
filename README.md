@@ -27,6 +27,7 @@
 | 2026-09-16 | [game-of-life](./apps/2026-09-16-game-of-life) | Python 标准库 | 康威生命游戏 B3/S23，有界/环面边界、经典图案库与 ASCII CLI |
 | 2026-09-17 | [expr-eval](./apps/2026-09-17-expr-eval) | Python 标准库 | 调度场表达式求值器：优先级/一元符号/函数/变量，含 RPN 调试与 REPL CLI |
 | 2026-09-18 | [lsystem](./apps/2026-09-18-lsystem) | Python 标准库 | L-system 分形生成器：字符串重写+海龟绘图，输出 SVG/ASCII，内置 6 种预设 |
+| 2026-09-19 | [bloom-filter](./apps/2026-09-19-bloom-filter) | Python 标准库 | 布隆过滤器：最优参数设计/双哈希/并交集/序列化，含建库查询 CLI 与单测 |
 
 ## 本地结构
 
