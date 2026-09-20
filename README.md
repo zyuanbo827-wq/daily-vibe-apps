@@ -28,6 +28,7 @@
 | 2026-09-17 | [expr-eval](./apps/2026-09-17-expr-eval) | Python 标准库 | 调度场表达式求值器：优先级/一元符号/函数/变量，含 RPN 调试与 REPL CLI |
 | 2026-09-18 | [lsystem](./apps/2026-09-18-lsystem) | Python 标准库 | L-system 分形生成器：字符串重写+海龟绘图，输出 SVG/ASCII，内置 6 种预设 |
 | 2026-09-19 | [bloom-filter](./apps/2026-09-19-bloom-filter) | Python 标准库 | 布隆过滤器：最优参数设计/双哈希/并交集/序列化，含建库查询 CLI 与单测 |
+| 2026-09-20 | [spellcheck](./apps/2026-09-20-spellcheck) | Python 标准库 | 拼写检查器：Levenshtein 编辑距离 + BK-tree 剪枝最近邻，含建议/文本检查 CLI |
 
 ## 本地结构
 
