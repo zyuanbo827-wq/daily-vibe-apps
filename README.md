@@ -30,6 +30,7 @@
 | 2026-09-19 | [bloom-filter](./apps/2026-09-19-bloom-filter) | Python 标准库 | 布隆过滤器：最优参数设计/双哈希/并交集/序列化，含建库查询 CLI 与单测 |
 | 2026-09-20 | [spellcheck](./apps/2026-09-20-spellcheck) | Python 标准库 | 拼写检查器：Levenshtein 编辑距离 + BK-tree 剪枝最近邻，含建议/文本检查 CLI |
 | 2026-09-21 | [sudoku](./apps/2026-09-21-sudoku) | Python 标准库 | 数独求解/校验/生成：MRV 回溯、解计数判唯一、挖洞生成可复现题面 |
+| 2026-09-22 | [jsonlite](./apps/2026-09-22-jsonlite) | Python 标准库 | 手写递归下降 JSON 解析器：严格文法/转义代理对、美化压缩、路径查询与 CLI |
 
 ## 本地结构
 
