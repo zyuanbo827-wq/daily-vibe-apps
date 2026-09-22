@@ -1,0 +1,13 @@
+{
+  "name": "daily-vibe",
+  "active": true,
+  "ratio": 0.95,
+  "tags": ["python", "stdlib", "cli"],
+  "note": "caf\u00e9 \u2615 \uD83D\uDE00",
+  "escape": "line1\nline2\t\"quoted\"",
+  "items": [
+    { "id": 1, "ok": null },
+    { "id": 2, "ok": true }
+  ],
+  "countdown": [3, 2, 1, 0]
+}
