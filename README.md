@@ -31,6 +31,7 @@
 | 2026-09-20 | [spellcheck](./apps/2026-09-20-spellcheck) | Python 标准库 | 拼写检查器：Levenshtein 编辑距离 + BK-tree 剪枝最近邻，含建议/文本检查 CLI |
 | 2026-09-21 | [sudoku](./apps/2026-09-21-sudoku) | Python 标准库 | 数独求解/校验/生成：MRV 回溯、解计数判唯一、挖洞生成可复现题面 |
 | 2026-09-22 | [jsonlite](./apps/2026-09-22-jsonlite) | Python 标准库 | 手写递归下降 JSON 解析器：严格文法/转义代理对、美化压缩、路径查询与 CLI |
+| 2026-09-23 | [ratelimit](./apps/2026-09-23-ratelimit) | Python 标准库 | 四种限流算法实验台：令牌桶/固定窗口/滑动日志/滑动计数，含突发对比与回放 CLI |
 
 ## 本地结构
 
