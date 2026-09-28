@@ -1,0 +1,4 @@
+Alice: alice@example.com, born 1995-03-12
+Bob:   bob2024@test.org, visits 42
+Carol: no email here, phone 555-1234
+meeting on 2026-09-28 at 09:00
