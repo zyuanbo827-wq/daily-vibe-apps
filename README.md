@@ -33,6 +33,7 @@
 | 2026-09-22 | [jsonlite](./apps/2026-09-22-jsonlite) | Python 标准库 | 手写递归下降 JSON 解析器：严格文法/转义代理对、美化压缩、路径查询与 CLI |
 | 2026-09-23 | [ratelimit](./apps/2026-09-23-ratelimit) | Python 标准库 | 四种限流算法实验台：令牌桶/固定窗口/滑动日志/滑动计数，含突发对比与回放 CLI |
 | 2026-09-28 | [minregex](./apps/2026-09-28-minregex) | Python 标准库 | 回溯式迷你正则引擎：字符类/分组捕获/交替/贪婪惰性量词，含 grep/find CLI |
+| 2026-09-29 | [consistent-hash](./apps/2026-09-29-consistent-hash) | Python 标准库 | 一致性哈希环：虚拟节点/增删迁移计划，验证单调性与负载均衡，含 demo/dist CLI |
 
 ## 本地结构
 
