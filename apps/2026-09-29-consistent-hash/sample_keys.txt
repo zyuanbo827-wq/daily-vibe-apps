@@ -1,0 +1,22 @@
+# 示例键集合：每行一个键，# 开头为注释，空行忽略。
+# 用法：python consistent_hash.py dist sample_keys.txt --nodes cache-1,cache-2,cache-3
+user:1001
+user:1002
+user:1003
+session:aaa
+session:bbb
+session:ccc
+product:sku-001
+product:sku-002
+product:sku-003
+order:20260929-0001
+order:20260929-0002
+cart:user-1001
+cart:user-1002
+inventory:warehouse-north
+inventory:warehouse-south
+rating:product-sku-001
+rating:product-sku-002
+review:order-0001
+review:order-0002
+feed:timeline-user-1001
