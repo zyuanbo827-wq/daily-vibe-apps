@@ -1,0 +1,15 @@
+# 缓存工作流示例：set <key> <value> [ttl=N] / get <key> / delete <key>
+# 用法：python cache_lab.py replay sample_workload.txt --capacity 3
+set a 1
+set b 2
+set c 3
+get a
+get a
+get b
+set d 4
+get c
+get d
+set a 99
+get a
+delete b
+get b
