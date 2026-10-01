@@ -35,6 +35,7 @@
 | 2026-09-28 | [minregex](./apps/2026-09-28-minregex) | Python 标准库 | 回溯式迷你正则引擎：字符类/分组捕获/交替/贪婪惰性量词，含 grep/find CLI |
 | 2026-09-29 | [consistent-hash](./apps/2026-09-29-consistent-hash) | Python 标准库 | 一致性哈希环：虚拟节点/增删迁移计划，验证单调性与负载均衡，含 demo/dist CLI |
 | 2026-09-30 | [cache-lab](./apps/2026-09-30-cache-lab) | Python 标准库 | LRU/LFU 缓存实验台：手写链表 O(1) 淘汰、TTL、命中率统计，含 Zipf 负载对比 CLI |
+| 2026-10-01 | [minesweeper](./apps/2026-10-01-minesweeper) | Python 标准库 | 扫雷：首击安全布雷、零区泛洪、插旗与和弦展开、自动胜负，含交互/演示 CLI |
 
 ## 本地结构
 
