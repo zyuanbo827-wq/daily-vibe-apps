@@ -1,0 +1,19 @@
+# 搜索日志词频示例：每行 "word<TAB>freq"
+# 用法：python trie_autocomplete.py complete search_log.tsv --prefix ca --limit 5
+apple	42
+app	30
+application	18
+apply	12
+april	3
+banana	25
+band	9
+banner	7
+bank	11
+cat	33
+car	28
+card	15
+care	10
+carry	6
+dog	20
+door	14
+dot	5
