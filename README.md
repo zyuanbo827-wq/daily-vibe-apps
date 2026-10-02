@@ -36,6 +36,7 @@
 | 2026-09-29 | [consistent-hash](./apps/2026-09-29-consistent-hash) | Python 标准库 | 一致性哈希环：虚拟节点/增删迁移计划，验证单调性与负载均衡，含 demo/dist CLI |
 | 2026-09-30 | [cache-lab](./apps/2026-09-30-cache-lab) | Python 标准库 | LRU/LFU 缓存实验台：手写链表 O(1) 淘汰、TTL、命中率统计，含 Zipf 负载对比 CLI |
 | 2026-10-01 | [minesweeper](./apps/2026-10-01-minesweeper) | Python 标准库 | 扫雷：首击安全布雷、零区泛洪、插旗与和弦展开、自动胜负，含交互/演示 CLI |
+| 2026-10-02 | [trie-autocomplete](./apps/2026-10-02-trie-autocomplete) | Python 标准库 | 前缀树自动补全：词频 top-k、'.' 通配匹配、删除剪枝、词表序列化，含查询 CLI |
 
 ## 本地结构
 
