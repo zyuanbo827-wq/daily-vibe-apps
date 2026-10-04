@@ -1,0 +1,2 @@
+ranked retrieval scores documents with tf idf term weights
+boolean retrieval intersects postings for AND queries

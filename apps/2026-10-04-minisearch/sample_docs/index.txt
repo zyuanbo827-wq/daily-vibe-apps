@@ -1,0 +1,2 @@
+search engines build an inverted index from documents
+the index maps each term to the documents containing it
