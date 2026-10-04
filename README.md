@@ -38,6 +38,7 @@
 | 2026-10-01 | [minesweeper](./apps/2026-10-01-minesweeper) | Python 标准库 | 扫雷：首击安全布雷、零区泛洪、插旗与和弦展开、自动胜负，含交互/演示 CLI |
 | 2026-10-02 | [trie-autocomplete](./apps/2026-10-02-trie-autocomplete) | Python 标准库 | 前缀树自动补全：词频 top-k、'.' 通配匹配、删除剪枝、词表序列化，含查询 CLI |
 | 2026-10-03 | [md2html](./apps/2026-10-03-md2html) | Python 标准库 | Markdown→HTML：标题/围栏代码/引用/列表/行内格式，转义原始 HTML 并拦截危险 URL |
+| 2026-10-04 | [minisearch](./apps/2026-10-04-minisearch) | Python 标准库 | 倒排索引迷你搜索引擎：布尔 AND 交集、TF-IDF 排名、停用词、增删文档与 JSON 持久化 |
 
 ## 本地结构
 
