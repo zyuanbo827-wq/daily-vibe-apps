@@ -1,0 +1,7 @@
+id,name,city,score,tags
+1,Alice,Beijing,91,"math,physics"
+2,Bob,Shanghai,78,"history,art"
+3,Carol,Guangzhou,85,"math,chemistry"
+4,Dave,"Shenzhen, Guangdong",66,"art,music"
+5,Eve,Beijing,95,"physics,chemistry"
+6,"Frank ""the Tank""",Shanghai,72,"sports,math"
