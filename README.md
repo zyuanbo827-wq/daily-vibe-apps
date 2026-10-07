@@ -40,6 +40,7 @@
 | 2026-10-03 | [md2html](./apps/2026-10-03-md2html) | Python 标准库 | Markdown→HTML：标题/围栏代码/引用/列表/行内格式，转义原始 HTML 并拦截危险 URL |
 | 2026-10-04 | [minisearch](./apps/2026-10-04-minisearch) | Python 标准库 | 倒排索引迷你搜索引擎：布尔 AND 交集、TF-IDF 排名、停用词、增删文档与 JSON 持久化 |
 | 2026-10-05 | [csvkit-lite](./apps/2026-10-05-csvkit-lite) | Python 标准库 | 手写 RFC4180 CSV 解析与查询：选择/过滤/排序/limit、JSON 与 Markdown 导出、分组聚合 |
+| 2026-10-07 | [fsm-lab](./apps/2026-10-07-fsm-lab) | Python 标准库 | 有限状态机实验台：DFA 模拟与轨迹、epsilon NFA 子集模拟、子集构造确定化与等价性核对 |
 
 ## 本地结构
 
