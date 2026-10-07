@@ -1,0 +1,12 @@
+{
+  "type": "nfa",
+  "states": ["q0", "q1", "q2"],
+  "alphabet": ["a", "b"],
+  "start": "q0",
+  "accept": ["q2"],
+  "transitions": {
+    "q0": {"a": ["q0", "q1"], "b": ["q0"]},
+    "q1": {"b": ["q2"]},
+    "q2": {"a": ["q2"], "b": ["q2"]}
+  }
+}
