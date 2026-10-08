@@ -1,0 +1,6 @@
+Alice->Bob: 10
+Bob->Carol: 5
+Carol->Dave: 2
+Dave->Alice: 1
+Eve->Alice: 7
+Frank->Bob: 3
