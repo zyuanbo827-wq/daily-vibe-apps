@@ -1,0 +1,14 @@
+{
+  "directed": false,
+  "nodes": ["Beijing", "Tianjin", "Shijiazhuang", "Jinan", "Xuzhou", "Nanjing"],
+  "edges": [
+    ["Beijing", "Tianjin", 120],
+    ["Beijing", "Shijiazhuang", 290],
+    ["Tianjin", "Jinan", 270],
+    ["Shijiazhuang", "Jinan", 310],
+    ["Shijiazhuang", "Xuzhou", 470],
+    ["Jinan", "Xuzhou", 320],
+    ["Jinan", "Nanjing", 640],
+    ["Xuzhou", "Nanjing", 330]
+  ]
+}
