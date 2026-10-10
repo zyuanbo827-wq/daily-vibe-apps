@@ -1,0 +1,8 @@
+# 城市连接与建设成本：u v weight
+Beijing Tianjin 120
+Beijing Shijiazhuang 290
+Tianjin Jinan 270
+Shijiazhuang Jinan 310
+Jinan Xuzhou 320
+Xuzhou Nanjing 330
+Jinan Nanjing 640
