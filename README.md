@@ -44,6 +44,7 @@
 | 2026-10-08 | [merkle-tree](./apps/2026-10-08-merkle-tree) | Python 标准库 | Merkle 树：SHA-256 根哈希、对数级包含证明与验证、篡改检测、文件分块完整性校验 |
 | 2026-10-09 | [graph-route](./apps/2026-10-09-graph-route) | Python 标准库 | 图最短路径实验台：Dijkstra、Bellman-Ford 负权与负环检测、Floyd-Warshall 全源对比 |
 | 2026-10-10 | [union-find](./apps/2026-10-10-union-find) | Python 标准库 | 并查集实验台：路径压缩+按权合并、连通分量与成环检测、Kruskal 最小生成树森林 |
+| 2026-10-11 | [strmatch](./apps/2026-10-11-strmatch) | Python 标准库 | 字符串模式匹配实验台：KMP 前缀函数、Rabin-Karp 滚动哈希、朴素对照与 grep 式 CLI |
 
 ## 本地结构
 
