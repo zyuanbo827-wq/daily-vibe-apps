@@ -1,0 +1,5 @@
+the quick brown fox jumps over the lazy dog
+a second line without the keyword
+pattern pattern pattern repeated here
+KMP handles overlapping matches: aaaaa
+The Fox appears again with different case
