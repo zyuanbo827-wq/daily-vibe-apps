@@ -1,0 +1,5 @@
+the history of cryptography begins thousands of years ago with
+simple substitution ciphers. julius caesar used a cipher that shifts
+each letter by a fixed number of positions in the alphabet. modern
+encryption builds on the same idea of keeping messages secret, but
+uses mathematics and very long keys to resist frequency analysis.
