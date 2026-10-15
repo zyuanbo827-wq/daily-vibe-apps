@@ -46,6 +46,7 @@
 | 2026-10-10 | [union-find](./apps/2026-10-10-union-find) | Python 标准库 | 并查集实验台：路径压缩+按权合并、连通分量与成环检测、Kruskal 最小生成树森林 |
 | 2026-10-11 | [strmatch](./apps/2026-10-11-strmatch) | Python 标准库 | 字符串模式匹配实验台：KMP 前缀函数、Rabin-Karp 滚动哈希、朴素对照与 grep 式 CLI |
 | 2026-10-13 | [astar](./apps/2026-10-13-astar) | Python 标准库 | 网格寻路实验台：A* 曼哈顿/切比雪夫启发式、Dijkstra 最优性对照、8 邻域对角与穿墙拦截 |
+| 2026-10-15 | [cipher-lab](./apps/2026-10-15-cipher-lab) | Python 标准库 | 古典密码实验台：Caesar/ROT13、Vigenere 多表替代、英文字母频率卡方自动破解 |
 
 ## 本地结构
 
