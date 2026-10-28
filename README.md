@@ -49,6 +49,7 @@
 | 2026-10-15 | [cipher-lab](./apps/2026-10-15-cipher-lab) | Python 标准库 | 古典密码实验台：Caesar/ROT13、Vigenere 多表替代、英文字母频率卡方自动破解 |
 | 2026-10-18 | [heaplab](./apps/2026-10-18-heaplab) | Python 标准库 | 二叉堆实验台：手写堆/heapify、堆排序、O(n log k) 流式 top-k、多路归并、双堆中位数 |
 | 2026-10-21 | [btree](./apps/2026-10-21-btree) | Python 标准库 | B 树实验台：多路平衡树、节点分裂、删除借键/合并、范围查询，对应数据库索引结构 |
+| 2026-10-28 | [totp](./apps/2026-10-28-totp) | Python 标准库 | TOTP/HOTP 动态口令：Base32、HMAC 动态截断、时间窗口校验，对应两步验证 |
 
 ## 本地结构
 
