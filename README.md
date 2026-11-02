@@ -50,6 +50,7 @@
 | 2026-10-18 | [heaplab](./apps/2026-10-18-heaplab) | Python 标准库 | 二叉堆实验台：手写堆/heapify、堆排序、O(n log k) 流式 top-k、多路归并、双堆中位数 |
 | 2026-10-21 | [btree](./apps/2026-10-21-btree) | Python 标准库 | B 树实验台：多路平衡树、节点分裂、删除借键/合并、范围查询，对应数据库索引结构 |
 | 2026-10-28 | [totp](./apps/2026-10-28-totp) | Python 标准库 | TOTP/HOTP 动态口令：Base32、HMAC 动态截断、时间窗口校验，对应两步验证 |
+| 2026-11-02 | [skiplist](./apps/2026-11-02-skiplist) | Python 标准库 | 跳表实验台：概率平衡多层链表、增删查、排名与范围查询，对应 Redis zset 底层 |
 
 ## 本地结构
 
